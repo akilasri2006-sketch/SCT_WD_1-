@@ -1,4 +1,4 @@
-# Responsive Landing Page
+# Modern Responsive Landing Page
 
 ## Task
 SkillCraft Technology Web Development Internship
